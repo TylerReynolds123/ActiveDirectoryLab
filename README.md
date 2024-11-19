@@ -15,7 +15,7 @@ Project consists of walking through how to create an Active Directory home lab e
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 - <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
