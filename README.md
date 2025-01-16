@@ -1,3 +1,22 @@
+<h1>Active Directory Home Lab</h1>
+
+ 
+
+<h2>Description</h2>
+Project consists of walking through how to create an Active Directory home lab environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I highly recommend running through it a few times, ask questions where things may seem unclear, and eventually try to build your own. Please let me know if you have any questions!
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>PowerShell</b>
+- <b>Oracle Virtual Box</b>
+
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> 
+- <b>Server 2019</b>
 <p align="center">
 Create Virtual Machine Domain Controller (DC): <br/>
 <img src="https://i.imgur.com/ecLpPBK.jpg" height="80%" width="80%" alt="VM Steps"/> 
