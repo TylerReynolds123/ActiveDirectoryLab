@@ -17,6 +17,9 @@ Project consists of walking through how to create an Active Directory home lab e
 
 - <b>Windows 10</b> 
 - <b>Server 2019</b>
+
+<h2>Program walk-through:</h2>
+
 <p align="center">
 Create Virtual Machine Domain Controller (DC): <br/>
 <img src="https://i.imgur.com/ecLpPBK.jpg" height="80%" width="80%" alt="VM Steps"/> 
